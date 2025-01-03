@@ -22,9 +22,10 @@ To get a local copy of the Todo List App up and running, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/todo-list-app.git
-   Navigate to the project directory:
 
-bash
+2. Navigate to the project directory:
+
+cd todo-list-app
 
 Verify
 
